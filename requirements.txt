@@ -1,4 +1,8 @@
-numpy==1.19.4
-matplotlib==3.3.3
-opencv-python==3.4.2.17
-
+numpy
+matplotlib
+opencv-python
+ipympl
+numba
+ipywidgets
+jupyter_contrib_nbextensions
+nodejs
