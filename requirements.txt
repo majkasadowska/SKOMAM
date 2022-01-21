@@ -8,3 +8,5 @@ jupyter_contrib_nbextensions
 nodejs
 ffmpeg
 ffmpeg-python
+pillow
+graphviz
