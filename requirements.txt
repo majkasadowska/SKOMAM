@@ -7,3 +7,5 @@ sympy
 scipy
 opencv-python
 ipympl
+jaxlib
+jax
