@@ -17,3 +17,7 @@ Toto jsou materiály k počítačovým cvičení, veškeré další informace na
   - `2023`: Polynomiální regrese a Určování stáří obrazu
   - `2022`: Numerický výpočet určitého integrálu, Vedení tepla
   - `2021`: Práce s obrázky, Simulace šíření epidemie
+
+## Doplňující videa k některým cvičením
+
+[Videa vybraných cvičení ŠKOMAMu](https://www.youtube.com/@skomam870)
