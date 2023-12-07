@@ -37,4 +37,5 @@
         "--max-line-length=120",
         "--aggressive"
     ],
+    "workbench.colorTheme": "Default Dark Modern",
 }
