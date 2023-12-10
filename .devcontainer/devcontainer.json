@@ -7,6 +7,7 @@
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": ".devcontainer/post-create.sh",
+  "postStartCommand": ".devcontainer/post-create.sh",
   "customizations": {
     "codespaces": {
       "openFiles": []
