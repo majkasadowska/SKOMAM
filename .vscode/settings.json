@@ -22,7 +22,9 @@
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
   "files.autoSave": "afterDelay",
-  "flake8.args": ["--max-line-length=200"],
+  "flake8.args": [
+    "--max-line-length=200"
+  ],
   "python.analysis.autoFormatStrings": true,
   "python.analysis.autoImportCompletions": true,
   "python.analysis.completeFunctionParens": true,
@@ -31,7 +33,10 @@
   "breadcrumbs.enabled": false,
   "editor.fontFamily": "FiraCode Nerd Font Mono",
   "editor.fontLigatures": true,
-  "autopep8.args": ["--max-line-length=120", "--aggressive"],
+  "autopep8.args": [
+    "--max-line-length=120",
+    "--aggressive"
+  ],
   "workbench.colorTheme": "Default Dark Modern",
   "workbench.colorCustomizations": {
     "[Default Dark Modern]": {
@@ -39,4 +44,7 @@
       "textPreformat.foreground": "#E2BB6A",
     }
   },
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ],
 }
